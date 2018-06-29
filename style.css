@@ -15,7 +15,7 @@
     background-image: url("img/jumbotron-background.png");
     margin:0;
 }
-
-.wordbreak{
-    word-break: break-all;
-}
+@media screen and (max-width: 768px){
+#sahm{
+    font-size: 3rem
+}}
