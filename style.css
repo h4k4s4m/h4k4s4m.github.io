@@ -19,10 +19,30 @@
 #sahm{
     font-size: 6rem;
     font-weight: 300;
-    line-height: 1.2;
+    line-height: 1.5;
 }
 @media screen and (max-width: 768px){
 #sahm{
     font-size: 3rem;
-    line-height: 50%;
+    line-height: 1.5
 }}
+
+ul {
+    list-style-type: none;
+    padding:0;
+  }
+li{
+    font-weight: bold;
+    line-height: 3em;
+}
+li:hover{
+    background:black;
+    color: green;
+}
+li:hover:nth-child(odd){
+    background:grey;
+    color: blue;
+}
+  h2{
+      line-height: 3em;
+  }
