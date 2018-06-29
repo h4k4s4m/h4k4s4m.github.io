@@ -15,3 +15,7 @@
     background-image: url("img/jumbotron-background.png");
     margin:0;
 }
+
+.wordbreak{
+    word-break: break-all;
+}
