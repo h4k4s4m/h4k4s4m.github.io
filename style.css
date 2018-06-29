@@ -15,7 +15,14 @@
     background-image: url("img/jumbotron-background.png");
     margin:0;
 }
+
+#sahm{
+    font-size: 6rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
 @media screen and (max-width: 768px){
 #sahm{
-    font-size: 3rem
+    font-size: 3rem;
+    line-height: 50%;
 }}
