@@ -23,6 +23,7 @@ ul {
 li{
     font-weight: bold;
     line-height: 3em;
+    columns: #4442424f;
 }
 
 li:hover{
