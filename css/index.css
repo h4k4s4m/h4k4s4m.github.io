@@ -1,17 +1,17 @@
 .col {
-    width: 33%;
-    border: black 1px solid;
-    padding: 10px;
-  }
-  
-  .row {
-    display: flex;
-  }
+  width: 33%;
+  border: black 1px solid;
+  padding: 10px;
+}
+
+.row {
+  display: flex;
+}
 
 ul {
-    list-style-position: inside;
-  }
+  list-style-position: inside;
+}
 
-  div h3 {
-    text-align: center;
-  }
+div h3 {
+  text-align: center;
+}
